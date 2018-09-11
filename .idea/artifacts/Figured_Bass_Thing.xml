@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Figured Bass Thing">
+    <output-path>$PROJECT_DIR$/out/artifacts/Figured_Bass_Thing</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Scenes.Window" />
+        <option name="description" value="" />
+        <option name="height" value="620" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+        <option name="width" value="620" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Figured_Bass_Thing.jar">
+        <element id="module-output" name="Figured Bass Thing" />
+      </element>
+    </root>
+  </artifact>
+</component>

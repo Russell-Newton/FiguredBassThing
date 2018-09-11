@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="Figured Bass Thing:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/Figured_Bass_Thing_jar</output-path>
-    <root id="archive" name="Figured Bass Notation Practice.jar">
-      <element id="module-output" name="Figured Bass Thing" />
-    </root>
-  </artifact>
-</component>
