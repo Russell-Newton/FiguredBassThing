@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Figured_Bass_Thing.jnlp">
+  <information>
+    <title>Figured Bass Thing</title>
+    <vendor>Unknown</vendor>
+    <description>Figured Bass Thing</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Figured_Bass_Thing.jar" size="6147" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="Scenes.Window"  name="Figured Bass Thing" />
+  <update check="background"/>
+</jnlp>

@@ -5,12 +5,10 @@
       <options>
         <option name="appClass" value="Scenes.Window" />
         <option name="description" value="" />
-        <option name="height" value="620" />
         <option name="htmlPlaceholderId" value="" />
         <option name="title" value="" />
         <option name="vendor" value="" />
         <option name="version" value="" />
-        <option name="width" value="620" />
       </options>
     </properties>
     <root id="root">
